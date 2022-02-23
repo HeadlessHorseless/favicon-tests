@@ -1,2 +1,2 @@
-# favicontests
+# favicon-tests
 testing favicon
