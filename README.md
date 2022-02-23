@@ -1,0 +1,2 @@
+# favicontests
+testing favicon
